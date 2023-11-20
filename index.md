@@ -1,1 +1,3 @@
-# Josamuel235-DSC180A-Methodology-5
+# Github Pages Assignment
+1. Name: Joseph Samuel, Email: Josamuel@ucsd.edu
+2. Section Number: B05, 
